@@ -163,5 +163,10 @@ html {
   border: 1px solid #91918D;
   border-radius: 50px;
 }
+.btn:hover {
+  background-color: transparent;
+  color: #FFF;
+  border: 1px solid #F0A9A1;
+}
 
 /*# sourceMappingURL=style.css.map */

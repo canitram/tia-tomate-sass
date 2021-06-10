@@ -7,4 +7,9 @@
     color: $graniteGray;
     border: 1px solid $taupeGray;
     border-radius: 50px;
+    &:hover{
+        background-color: transparent;
+        color: $white;
+        border: 1px solid $pastelPink;
+    }
 }
