@@ -1,1 +1,17 @@
-//You can change the name in this file
+@import './abstracts/variables';
+
+@import './base/reset';
+
+@import './layout/brand';
+
+@import './layout/header';
+
+@import './layout/main';
+
+@import './layout/owners';
+
+@import './layout/contact';
+
+@import './layout/footer';
+
+@import './components/buttons';
