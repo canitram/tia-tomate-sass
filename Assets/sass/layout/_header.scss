@@ -1,1 +1,18 @@
-//This file is for create your style with relation on space of header
+.header{
+    background-color: $jellyBean;
+    height: 45rem;
+    &__title{
+        font-weight: $light;
+        font-size: $xx-large;
+        color: $white;
+        text-align: center;
+        padding-top: 15rem;
+        
+        &--bold{
+            display: block;
+            font-weight: $bold;
+            text-transform: uppercase;
+        }
+    }
+
+}

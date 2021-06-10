@@ -1,1 +1,9 @@
-//This file is for create your style with relation on space of navbar
+.brand{
+    height: 1rem;
+    &__image{
+        width: 16rem;
+        margin-left: 6rem;
+        margin-top: 0.5rem;
+    }
+    
+}

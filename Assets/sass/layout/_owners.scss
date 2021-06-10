@@ -1,1 +1,51 @@
-//This file is for create your style with relation on space of pagination
+.owners{
+    background: $snow;
+    padding-bottom: 2.5rem;
+    &__title--bold{
+        background-color: $jellyBean;
+        color: $white;
+        text-transform: uppercase;
+        font-size: $xx-large;
+        font-weight: $bold;
+        text-align: center;
+        padding: 6rem;
+    }
+    &__she{
+        color: $graniteGray;
+        padding: 0 23.5rem;
+        &--image{
+            margin: 3rem 6rem 0;
+            height: auto;
+            width: 25rem;
+            max-width: 100%;
+        }
+        &--title{
+            font-size: $large;
+            font-weight: $bold;
+            text-align: center;
+        }
+        &--text{
+            font-size: $small;
+            font-weight: $regular;
+        }
+    }
+    &__he{
+        color: $graniteGray;
+        padding: 0 23.5rem;
+        &--image{
+            margin: 3rem 6rem 0;
+            height: auto;
+            width: 25rem;
+            max-width: 100%;
+        }
+        &--title{
+            font-size: $large;
+            font-weight: $bold;
+            text-align: center;
+        }
+        &--text{
+            font-size: $small;
+            font-weight: $regular;
+        }
+    }
+}

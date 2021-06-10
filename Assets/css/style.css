@@ -1,0 +1,167 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Raleway", sans-serif;
+}
+
+.brand {
+  height: 1rem;
+}
+.brand__image {
+  width: 16rem;
+  margin-left: 6rem;
+  margin-top: 0.5rem;
+}
+
+.header {
+  background-color: #E56353;
+  height: 45rem;
+}
+.header__title {
+  font-weight: 200;
+  font-size: 70px;
+  color: #FFF;
+  text-align: center;
+  padding-top: 15rem;
+}
+.header__title--bold {
+  display: block;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.main__organic {
+  height: 45rem;
+  background-color: #91918D;
+  color: #FFF;
+}
+.main__organic--image {
+  margin-top: 5rem;
+  margin-left: 15rem;
+  height: auto;
+  width: 55rem;
+  max-width: 100%;
+}
+.main__organic--text {
+  padding: 0 25%;
+  width: 50%;
+}
+.main__organic--text h3 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.main__origin {
+  height: 45rem;
+  background-color: #FAFAFA;
+  color: #686963;
+}
+.main__origin--image {
+  margin-top: 5rem;
+  margin-left: 15rem;
+  height: auto;
+  width: 55rem;
+  max-width: 100%;
+}
+.main__origin--text {
+  padding: 0 25%;
+  width: 50%;
+}
+.main__origin--text h3 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+.main__origin--text p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.owners {
+  background: #FAFAFA;
+  padding-bottom: 2.5rem;
+}
+.owners__title--bold {
+  background-color: #E56353;
+  color: #FFF;
+  text-transform: uppercase;
+  font-size: 70px;
+  font-weight: 700;
+  text-align: center;
+  padding: 6rem;
+}
+.owners__she {
+  color: #686963;
+  padding: 0 23.5rem;
+}
+.owners__she--image {
+  margin: 3rem 6rem 0;
+  height: auto;
+  width: 25rem;
+  max-width: 100%;
+}
+.owners__she--title {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+.owners__she--text {
+  font-size: 16px;
+  font-weight: 400;
+}
+.owners__he {
+  color: #686963;
+  padding: 0 23.5rem;
+}
+.owners__he--image {
+  margin: 3rem 6rem 0;
+  height: auto;
+  width: 25rem;
+  max-width: 100%;
+}
+.owners__he--title {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+.owners__he--text {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.contact {
+  background-color: #E56353;
+  color: #FFF;
+  font-size: 30px;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.footer {
+  background-color: #686963;
+  width: 100%;
+  height: 18rem;
+}
+.footer__brand {
+  padding: 5rem 25rem;
+  width: 14rem;
+  margin-left: 10rem;
+}
+
+.btn {
+  padding: 1rem 6rem;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-color: #FAFAFA;
+  color: #686963;
+  border: 1px solid #91918D;
+  border-radius: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */

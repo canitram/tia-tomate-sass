@@ -1,1 +1,10 @@
-//This file you will create your style for buttons inside of the project
+.btn{
+    padding: 1rem 6rem;
+    font-size: $large;
+    text-transform: uppercase;
+    font-weight: $bold;
+    background-color: $snow;
+    color: $graniteGray;
+    border: 1px solid $taupeGray;
+    border-radius: 50px;
+}

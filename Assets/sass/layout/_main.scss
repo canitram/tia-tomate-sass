@@ -1,1 +1,47 @@
-//This file is for create your style with relation on space of main
+.main__organic{
+    height: 45rem;
+    background-color: $taupeGray;
+    color: $white;
+
+    &--image{
+        margin-top: 5rem;
+        margin-left: 15rem;
+        height: auto;
+        width: 55rem;
+        max-width: 100%;    
+    }
+    &--text{
+        padding: 0 25%;
+        width: 50%;
+        h3{
+            font-size: $large;
+            font-weight: $bold;
+            text-align: center;
+        }
+    }    
+}
+
+.main__origin{
+    height: 45rem;
+    background-color: $snow;
+    color: $graniteGray;
+    &--image{
+        margin-top: 5rem;
+        margin-left: 15rem;
+        height: auto;
+        width: 55rem;
+        max-width: 100%;    }
+    &--text{
+        padding: 0 25%;
+        width: 50%;
+        h3{
+            font-size: $large;
+            font-weight: $bold;
+            text-align: center;
+        }
+        p{
+            font-size: $small;
+            font-weight: $regular;
+        }
+    }    
+}
